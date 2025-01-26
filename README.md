@@ -22,6 +22,7 @@ of this algorithm changes as the **_input size_** increases.
 ###A python program
 + The first step in our project was creating some sample **inputs** with an empty list of **Execution time** 
 ```
+
 # Collecting 
 inputs = [10, 15, 20, 25, 30, 35, 40, 45]
 execution_time = []
